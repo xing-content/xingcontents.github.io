@@ -1,0 +1,280 @@
+[
+    {
+        "id": "4.9.6",
+        "title": "New Mobirise v4.9.6 is out.",
+        "message": [
+            "<b>What's new in v4.9.6</b> <br>", 
+            "<ul>",
+                "<li>Extensions <b>Social Feed</b>, <b>SoundCloud</b>, <b>Facebook Comments</b> supported in AMP themes</li>",            
+                "<li><b>Online Image Library</b> now saves the last active tab</li>",
+                "<li>All themes are updated: small fixes and new FormBuilder extension support</li>",
+            
+            "</ul> <br>",
+            "<b>FormBuilder Extension</b><br>", 
+            "<ul>",
+                "<li>Use the drag-n-drop builder to draw up the form you want</li>",            
+                "<li>Create forms with complex layout, set the width of form fields</li>",
+                "<li>Add your own labels, placeholders, default values, and input patterns</li>",
+                "<li>Use the built-in Mobirise solution to receive submissions or use your own Action URL</li>",              
+            "</ul> <br>",
+            "<a href='https://mobirise.com/extensions/form-builder/' target='_blank'><img src='https://mobirise.com/assets-history-4/images/formbuilder-popup.jpg' width='100%'></a> <br>",
+            
+            "<a class='btn btn-success pull-right' href='https://mobirise.com/history.html?utm_source=mob_496_update&utm_medium=program&utm_campaign=mob_496_history'>Download v.4.9.6</a><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/form-builder/?utm_source=mob_496_update&utm_medium=program&utm_campaign=mob_496_history'>View Form Builder</a><a class='btn btn-default pull-right' href='app://stop'>Skip</a>"          
+        ]
+    } ,     
+
+               {
+        "id": "#21",
+        "title": "LightAMP Theme",
+        "message": [
+            "<b>New Theme: LightAMP</b><br>",
+            "Large set of more that 100 beautiful AMP blocks including parallax background, progress bars, animated bg text, Facebook comments, accordions, toggles, sliders, timelines, lightboxes, tables, and media blocks. Based on AMP and compatible with other AMP themes in Mobirise. View demo templates: <a href=https://mobirise.com/extensions/lightamp/demo-page1.html><strong>Interior Design</strong></a>, <a href=https://mobirise.com/extensions/lightamp/demo-page2.html><strong>Dance School</strong>, <a href=https://mobirise.com/extensions/lightamp/demo-page3.html><strong>Riding School</strong></a> <br>",
+            "<a class='btn btn-success pull-right' href='https://mobirise.com/extensions/lightamp/?utm_source=mob_light&utm_medium=program&utm_campaign=mob_light_news'>View Live Demo!</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }  ,
+
+                   {
+        "id": "#26",
+        "title": "FitnessAMP Theme",
+        "message": [
+            "<b>New Theme: FitnessAMP</b><br>",
+            "AMP theme for fitness, gym, sport and health related websites. View demo templates:   <a href='https://mobirise.com/extensions/fitnessamp/fitnessclub/index.html'><strong>Fitness Club</strong></a>, <a href='https://mobirise.com/extensions/fitnessamp/workoutmovement/index.html'><strong>Workout Movement</strong></a>, <a href='https://mobirise.com/extensions/fitnessamp/healthyfood/index.html'><strong>Healthy Food Club</strong></a>",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/fitnessamp/?utm_source=mob_news&utm_medium=program&utm_campaign=mob_news'>View Live Demo!</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }    
+     ,
+
+
+                   {
+        "id": "#30",
+        "title": "OrganicAMP Theme",
+        "message": [
+            "<b>New Theme: OrganicAMP</b><br>",
+            "AMP Theme for launching vegetarian food shops, cooking websites and healthy nutrition pages. <a href='https://mobirise.com/extensions/organicamp/?utm_source=mob_news&utm_medium=program&utm_campaign=mob_news'>Learn More..</a>",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/organicamp/?utm_source=mob_news&utm_medium=program&utm_campaign=mob_news'>View Live Demo!</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }  
+     ,
+
+                   {
+        "id": "#31",
+        "title": "TravelM4 Theme",
+        "message": [
+            "<b>New Theme: TravelM4</b><br>",
+            "Bootstrap4 theme to create a journey presentation website or travel agency landing pages. <a href='https://mobirise.com/extensions/travelm4/?utm_source=mob_news&utm_medium=program&utm_campaign=mob_news'>Learn More..</a>",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/travelm4/?utm_source=mob_news&utm_medium=program&utm_campaign=mob_news'>View Live Demo!</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }    
+     ,
+
+                   {
+        "id": "#32",
+        "title": "RealtyAMP Theme",
+        "message": [
+            "<b>New Theme: RealtyAMP</b><br>",
+            "AMP theme for realtors, agencies, real estate holdings to create responsive and versatile websites to sell properties online. <a href='https://mobirise.com/extensions/realtym4/?utm_source=mob_news&utm_medium=program&utm_campaign=mob_news'>Learn More..</a>",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/realtym4/?utm_source=mob_news&utm_medium=program&utm_campaign=mob_news'>View Live Demo!</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }       
+     ,
+
+                   {
+        "id": "#33",
+        "title": "ConsultingAMP Theme",
+        "message": [
+            "<b>New Theme: ConsultingAMP</b><br>",
+            "AMP theme to create a site for consulting and other professional services.  Comes with 3 demo templates: <a href='https://mobirise.com/extensions/consultingamp/consulting-agency/' target='_blank'>Consulting Agency</a>, <a href='https://mobirise.com/extensions/consultingamp/bank/' target='_blank'>Bank</a>, <a href='https://mobirise.com/extensions/consultingamp/insurance/' target='_blank'>Insurance</a>. ",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/consultingamp/'>View Live Demo!</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }  
+     ,
+
+                   {
+        "id": "#34",
+        "title": "SchoolAMP  Theme",
+        "message": [
+            "<b>New Theme: SchoolAMP </b><br>",
+            "Present your school or workshops, tell more about your courses with this theme!  Comes with 3 demo sites: <a href='https://mobirise.com/extensions/schoolamp/demo1.html' target='_blank'>Driving School</a>, <a href='https://mobirise.com/extensions/schoolamp/demo2.html' target='_blank'>Dance School</a>, <a href='https://mobirise.com/extensions/schoolamp/demo3.html' target='_blank'>Language School</a>. ",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/schoolamp/'>View Live Demo!</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }         
+     ,
+
+                   {
+        "id": "#35",
+        "title": "AppAMP Theme",
+        "message": [
+            "<b>New Theme: AppAMP </b><br>",
+            "Create a landing page or website promoting your mobile or desktop app.  2 demo sites available: <a href='https://mobirise.com/extensions/appamp/timeplanner.html' target='_blank'>Time Planning App</a>, <a href='https://mobirise.com/extensions/appamp/healthtracker.html' target='_blank'>Health Tracker</a>.",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/appamp/'>View Live Demo!</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }  
+     ,
+
+                   {
+        "id": "#36",
+        "title": "SportAMP Theme",
+        "message": [
+            "<b>New Theme: SportAMP  </b><br>",
+            "Theme for sites promoting gyms, fitness clubs, workouts, and yoga classes.  Comes with 2 ready templates: <a href='https://mobirise.com/extensions/sportamp/gym-hall.html' target='_blank'>Gym Hall</a>, <a href='https://mobirise.com/extensions/sportamp/fitness-club.html' target='_blank'>Fitness Club</a>. ",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/sportamp/'>View Live Demo!</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }         
+     ,
+
+                   {
+        "id": "#37",
+        "title": "ServiceAMP Theme",
+        "message": [
+            "<b>New Theme: ServiceAMP </b><br>",
+            "Clean and modern multipurpose AMP theme to promote every kind of services online. Come with 3 templates: <a href='https://mobirise.com/extensions/serviceamp/demo-1.html' target='_blank'>Agency</a>, <a href='https://mobirise.com/extensions/serviceamp/demo-2.html' target='_blank'>Travel</a>, <a href='https://mobirise.com/extensions/serviceamp/demo-3.html' target='_blank'>App Dev</a>. ",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/serviceamp/'>View Live Demo!</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    } 
+     ,
+
+                   {
+        "id": "#42",
+        "title": "BrandAMP Theme",
+        "message": [
+            "<b>New Theme: BrandAMP </b><br>",
+            "A simplistic and creative website theme to boost your brand. Use it to get your brand online quickly and effectively. Come with 2 templates: <a href='https://mobirise.com/extensions/brandamp/perfectsuit.html' target='_blank'>Perfect Suit</a>, <a href='https://mobirise.com/extensions/brandamp/smartwatch.html' target='_blank'>Smart Watch</a>",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/brandamp/'>View Live Demo!</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    } 
+     ,
+
+                   {
+        "id": "#43",
+        "title": "ChurchAMP Theme",
+        "message": [
+            "<b>New Theme: ChurchAMP </b><br>",
+            "A modern theme designed for churches and religious movements around the world. It is also suitable for creating a charity or charitable foundation website. 2 demo sites: <a href='https://mobirise.com/extensions/churchamp/demo1.html' target='_blank'>Welcome to Our Church</a>, <a href='https://mobirise.com/extensions/churchamp/demo2.html' target='_blank'>App Dev</a>. ",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/churchamp/'>View Live Demo!</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }    
+          ,
+
+{
+        "id": "#44",
+        "title": "StrategyAMP Theme",
+        "message": [
+            "<b>New Theme: StrategyAMP Theme </b><br>",
+            "A solid, informative, laconic and smart template for strategies of any business spheres: design, content, social media, sales, and business development. It is also suitable for consulting agencies to present services and make them plain and attractive for clients.<br><br> ",
+            "Comes with 3 demo sites:<br>",
+            "* <a href='https://mobirise.com/extensions/strategyamp/strategicplanning.html' target='_blank'>Strategic Planning</a> <br>",
+            "* <a href='https://mobirise.com/extensions/strategyamp/businessmeeting.html' target='_blank'>Business Meeting</a> <br>",
+            "* <a href='https://mobirise.com/extensions/strategyamp/consultingservices.html' target='_blank'>Consulting Services</a> <br><br>",
+            "<a href='https://mobirise.com/extensions/strategyamp/' target='_blank'><img src='https://mobirise.com/assets-history-4/images/strategyamp-preview.jpg' width='100%'></a> <br>",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/strategyamp/'>View Live Demo!</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }  
+          ,
+
+{
+        "id": "#45",
+        "title": "GamingAMP Theme",
+        "message": [
+            "<b>New Theme: GamingAMP Theme </b><br>",
+            "If you are a gamer and willing to launch your own online project, this theme will meet your needs. The dark and neat design will excite and entertain every video game fan that visits your website.<br><br> ",
+            "Comes with 2 demo sites:<br>",
+            "* <a href='https://mobirise.com/extensions/gamingamp/demo1.html' target='_blank'>Gaming Festival</a> <br>",
+            "* <a href='https://mobirise.com/extensions/gamingamp/demo2.html' target='_blank'>Virtual Gaming</a> <br><br>",
+            "<a href='https://mobirise.com/extensions/gamingamp/' target='_blank'><img src='https://mobirise.com/extensions/gamingamp/assets/images/full-2216x873.jpg' width='100%'></a> <br>",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/gamingamp/'>View Live Demo!</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }   
+    ,
+
+{
+        "id": "#46",
+        "title": "LifestyleAMP Theme",
+        "message": [
+            "<b>New Theme: LifestyleAMP Theme</b><br>",
+            "Easily create a personal, fashion, relationshop and lifestyle website that will be a real eye candy and inspiration for everyone.<br><br>",
+            "Comes with 3 demo sites:<br>",
+            "* <a href='https://mobirise.com/extensions/lifestyleamp/vegandemo.html' target='_blank'>Vegan Way</a> <br>",
+            "* <a href='https://mobirise.com/extensions/lifestyleamp/lifestyledemo.html' target='_blank'>Lifestyle Trends</a> <br>",
+            "* <a href='https://mobirise.com/extensions/lifestyleamp/traveldemo.html' target='_blank'>Travel Life</a> <br><br>",
+            "<a href='https://mobirise.com/extensions/lifestyleamp/' target='_blank'><img src='https://mobirise.com/extensions/lifestyleamp/assets/images/lifestyle.png' width='100%'></a> <br>",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/lifestyleamp/'>View Live Demo!</a> <a class='btn btn-success pull-right' href='https://mobirise.com/extensions/kit/'>View ALL Themes</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    } 
+    ,
+
+{
+        "id": "#47",
+        "title": "WorkshopAMP Theme",
+        "message": [
+            "<b>New Theme: WorkshopAMP Theme </b><br>",
+            "If you offer repair services and have a workshop, this is the right theme for you.<br><br> ",
+            "Comes with 2 demo sites:<br>",
+            "* <a href='https://mobirise.com/extensions/workshopamp/car-repair-shop.html' target='_blank'>Car Repair Shop</a> <br>",
+            "* <a href='https://mobirise.com/extensions/workshopamp/phone-repair-service.html' target='_blank'>Phone Repair Service</a> <br><br>",
+            "<a href='https://mobirise.com/extensions/workshopamp/' target='_blank'><img src='https://mobirise.com/extensions/workshopamp/assets/images/workshopamp-demo-compressed-1920x758.jpg' width='100%'></a> <br>",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/workshopamp/'>View Live Demo!</a> <a class='btn btn-success pull-right' href='https://mobirise.com/extensions/kit/'>View ALL Themes</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    } 
+    ,
+
+{
+        "id": "#48",
+        "title": "TasteM4 Theme",
+        "message": [
+            "<b>New Theme: TasteM4 Theme </b><br>",
+            "A fantastic and flexible clothing website theme. Benefit from the ready-made layouts. Build a website to your taste and present your brand in the best possible way.<br><br> ",
+            "Comes with 2 demo sites:<br>",
+            "* <a href='https://mobirise.com/extensions/tastem4/chocolatedemo.html?utm_source=mb_tstm4update&utm_medium=program&utm_campaign=mb_tstm4' target='_blank'>Chocolate Demo</a> <br>",
+            "* <a href='https://mobirise.com/extensions/tastem4/perfumeshopdemo.html?utm_source=mb_tstm4update&utm_medium=program&utm_campaign=mb_tstm4' target='_blank'>Perfume Shop Demo</a> <br><br>",
+            "<a href='https://mobirise.com/extensions/tastem4/?utm_source=mb_tstm4update&utm_medium=program&utm_campaign=mb_tstm4' target='_blank'><img src='https://mobirise.com/extensions/tastem4/assets/images/tastem4-1.jpg' width='100%'></a> <br>",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/tastem4/?utm_source=mb_tstm4update&utm_medium=program&utm_campaign=mb_tstm4'>View Live Demo!</a> <a class='btn btn-success pull-right' href='https://mobirise.com/extensions/kit/?utm_source=mb_tstm4update&utm_medium=program&utm_campaign=mb_tstm4'>View ALL Themes</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    } 
+    ,
+
+{
+        "id": "#49",
+        "title": "TechM4 Theme",
+        "message": [
+            "<b>New Theme: TechM4 Theme </b><br>",
+            "Big and beautiful Bootstrap4 theme. 100+ blocks: new menus, shops, animated intros, countdowns, sliders, pricing tables, tabs etc.. Save time and effort when creating a top-notch website for your tech company. <br><br> ",
+            "Comes with 3 demo sites:<br>",
+            "* <a href='https://mobirise.com/extensions/techm4/saascloud.html?utm_source=mb_techupdate&utm_medium=program&utm_campaign=mb_tech' target='_blank'>SaaS Cloud</a> <br>",
+            "* <a href='https://mobirise.com/extensions/techm4/gadgetsite.html?utm_source=mb_techupdate&utm_medium=program&utm_campaign=mb_tech' target='_blank'>Gadget Site</a> <br>",
+            "* <a href='https://mobirise.com/extensions/techm4/techcompany.html?utm_source=mb_techupdate&utm_medium=program&utm_campaign=mb_tech' target='_blank'>Tech Company</a> <br><br>",
+            "<a href='https://mobirise.com/extensions/techm4/?utm_source=mb_techupdate&utm_medium=program&utm_campaign=mb_tech' target='_blank'><img src='https://mobirise.com/extensions/techm4/assets/images/techm4.jpg' width='100%'></a> <br>",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/techm4/?utm_source=mb_techupdate&utm_medium=program&utm_campaign=mb_tech'>View Live Demo!</a> <a class='btn btn-success pull-right' href='https://mobirise.com/extensions/kit/?utm_source=mb_techupdate&utm_medium=program&utm_campaign=mb_tech'>View ALL Themes</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }
+    ,
+
+{
+        "id": "#50",
+        "title": "SimpleAMP Theme",
+        "message": [
+            "<b>New Theme: SimpleAMP Theme </b><br>",
+            "Create neat and trim websites for service agencies, shops, and creatives. This mutipurpose template contains more than 50 various blocks.<br><br> ",
+            "Comes with 3 demo sites:<br>",
+            "* <a href='https://mobirise.com/extensions/simpleamp/demo1.html?utm_source=mb_simaupdate&utm_medium=program&utm_campaign=mb_sima' target='_blank'>Interior Design Company</a> <br>",
+            "* <a href='https://mobirise.com/extensions/simpleamp/demo2.html?utm_source=mb_simaupdate&utm_medium=program&utm_campaign=mb_sima' target='_blank'>Furnuture Agency</a> <br>",
+            "* <a href='https://mobirise.com/extensions/simpleamp/demo3.html?utm_source=mb_simaupdate&utm_medium=program&utm_campaign=mb_sima' target='_blank'>Floristic Studio</a> <br><br>",
+            "<a href='https://mobirise.com/extensions/simpleamp/?utm_source=mb_simaupdate&utm_medium=program&utm_campaign=mb_sima' target='_blank'><img src='https://mobirise.com/extensions/simpleamp/assets/images/fullview-2796x1214.jpg' width='100%'></a> <br>",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/simpleamp/?utm_source=mb_simaupdate&utm_medium=program&utm_campaign=mb_sima'>View Live Demo!</a> <a class='btn btn-success pull-right' href='https://mobirise.com/extensions/kit/?utm_source=mb_simaupdate&utm_medium=program&utm_campaign=mb_sima'>View ALL Themes</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }
+    ,
+
+{
+        "id": "#51",
+        "title": "CompanyAMP Theme",
+        "message": [
+            "<b>New Theme: CompanyAMP Theme </b><br>",
+            "Stylish and universal theme for any type of companies. When building your company landing page, consider this captivating theme that sparks everyone's interest. <br><br> ",
+            "Comes with 2 demo sites:<br>",
+            "* <a href='https://mobirise.com/extensions/companyamp/productiondemo.html?utm_source=mb_cmpaupdate&utm_medium=program&utm_campaign=mb_cmpa' target='_blank'>Production Company</a> <br>",
+            "* <a href='https://mobirise.com/extensions/companyamp/analyticaldemo.html?utm_source=mb_cmpaupdate&utm_medium=program&utm_campaign=mb_cmpa' target='_blank'>Analytical Company</a> <br><br>",
+            "<a href='https://mobirise.com/extensions/companyamp/?utm_source=mb_cmpaupdate&utm_medium=program&utm_campaign=mb_cmpa' target='_blank'><img src='https://mobirise.com/extensions/kit/assets/images/companyamp-preview.jpg' width='100%'></a> <br>",
+            "<br><a class='btn btn-success pull-right' href='https://mobirise.com/extensions/companyamp/?utm_source=mb_cmpaupdate&utm_medium=program&utm_campaign=mb_cmpa'>View Live Demo!</a> <a class='btn btn-success pull-right' href='https://mobirise.com/extensions/kit/?utm_source=mb_cmpaupdate&utm_medium=program&utm_campaign=mb_cmpa'>View ALL Themes</a> <a class='btn btn-default pull-right' href='app://stop'>Skip This Theme</a>"
+        ]
+    }
+]
